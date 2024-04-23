@@ -1,4 +1,4 @@
-<img style="width: 100%" src="https://raw.githubusercontent.com/csurgay/csurgay/main/banner1.png" alt="banner"/>
+<img style="width: 100%" src="https://raw.githubusercontent.com/csurgay/csurgay/main/banner3.png" alt="banner"/>
 <!--
 **csurgay/csurgay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
