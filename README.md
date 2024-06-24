@@ -1,7 +1,8 @@
 <img style="width: 100%" src="https://github.com/csurgay/csurgay/blob/main/banner5.png" alt="banner"/>
-<!--
 
 ![image](https://github.com/csurgay/csurgay/assets/6297098/cca0ae06-5999-40a6-9e04-34f3d1f06482)
+
+<!--
 
 **csurgay/csurgay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
