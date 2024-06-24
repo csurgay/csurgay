@@ -1,8 +1,8 @@
 <img style="width: 100%" src="https://github.com/csurgay/csurgay/blob/main/banner5.png" alt="banner"/>
 
-<img style="height: 60px" src="https://github.com/csurgay/csurgay/assets/6297098/cca0ae06-5999-40a6-9e04-34f3d1f06482"/>
+<img style="height: 100px" src="https://github.com/csurgay/csurgay/assets/6297098/cca0ae06-5999-40a6-9e04-34f3d1f06482"/>
 
-<img style="height: 60px" src="https://github.com/csurgay/csurgay/assets/6297098/3a4fca96-dfa6-4da4-baa8-1ca2d89e0103"/>
+<img style="height: 100px" src="https://github.com/csurgay/csurgay/assets/6297098/3a4fca96-dfa6-4da4-baa8-1ca2d89e0103"/>
 
 <!--
 
