@@ -6,6 +6,7 @@
 <a href="https://github.com/csurgay/crossfire"><img style="height: 100px" src="https://github.com/csurgay/csurgay/assets/6297098/d4eb4c3f-9fd5-41e7-b332-94cd597065da"/></a>
 <a href="https://github.com/csurgay/abalone"><img style="height: 100px" src="https://github.com/csurgay/csurgay/assets/6297098/86067c58-a244-4e6e-8cc5-f2b18f9b2a58"/></a>
 <a href="https://github.com/csurgay/pov-lantern"><img style="height: 100px" src="https://github.com/csurgay/csurgay/assets/6297098/154715b9-20d5-4bc2-bb64-e5b24efacd2f"/></a>
+<a href="https://github.com/csurgay/maze"><img style="height: 100px" src="https://github.com/csurgay/csurgay/assets/6297098/a00517c0-ae33-4f71-90b7-af3cf8ce0017"/>
 
 <!--
 
