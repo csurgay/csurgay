@@ -2,6 +2,8 @@
 
 ![image](https://github.com/csurgay/csurgay/assets/6297098/cca0ae06-5999-40a6-9e04-34f3d1f06482)
 
+![image](https://github.com/csurgay/csurgay/assets/6297098/3a4fca96-dfa6-4da4-baa8-1ca2d89e0103)
+
 <!--
 
 **csurgay/csurgay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
