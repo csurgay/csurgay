@@ -4,6 +4,8 @@
 
 <img style="height: 100px" src="https://github.com/csurgay/csurgay/assets/6297098/3a4fca96-dfa6-4da4-baa8-1ca2d89e0103"/>
 
+<img style="height: 100px" src="https://github.com/csurgay/csurgay/assets/6297098/f9877a8b-8a46-4f45-bec6-265144e6c3db"/>
+
 <!--
 
 **csurgay/csurgay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
