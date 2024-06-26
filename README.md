@@ -13,6 +13,7 @@
 <a href="https://github.com/csurgay/VEP"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/f9c6bd0a-5ece-4f8a-a06f-8d831259eff4"/>
 <a href="https://github.com/csurgay/spin"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/395dd011-435e-4688-869d-13d523751c32"/>
 <a href="https://github.com/csurgay/studylines"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/14e88407-ea48-4ea0-bce2-37eeef58236a"/>
+<a href="https://github.com/csurgay/ECG-generator"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/5bc1fbed-73d4-4352-921f-c72eb780d40a)"/>
 
 <!--
 
