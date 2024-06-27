@@ -15,7 +15,7 @@
 <a href="https://github.com/csurgay/studylines"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/14e88407-ea48-4ea0-bce2-37eeef58236a"/>
 <a href="https://github.com/csurgay/ECG-generator"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/5bc1fbed-73d4-4352-921f-c72eb780d40a)"/>
 <a href="https://github.com/csurgay/xylophone"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/c85def3f-0edd-454f-bc82-d4d0fbac9f99)"/>
-<a href="https://github.com/csurgay/xylophone"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/d6c684ef-6fcf-4d0f-b7b1-4df35860dbef)"/>
+<a href="https://github.com/csurgay/xylophone"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/6a0d4772-a0ab-4c83-9dcc-04afc5f08f33)"/>
 
 <!--
 
