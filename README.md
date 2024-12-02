@@ -16,7 +16,7 @@
 <a href="https://github.com/csurgay/ECG-generator"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/5bc1fbed-73d4-4352-921f-c72eb780d40a)"/></a>
 <a href="https://github.com/csurgay/xylophone"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/c85def3f-0edd-454f-bc82-d4d0fbac9f99)"/></a>
 <a href="https://github.com/csurgay/robothand"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/e8b5af20-f070-4188-bb7a-8eafbd45503e)"/></a>
-<a href="https://github.com/csurgay/pong"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/9c7af902-4e0d-443e-b6d4-0c0ca3656259)"/></a>
+<a href="https://github.com/csurgay/pong"><img style="height: 120px" src="https://github.com/csurgay/pong/assets/9c7af902-4e0d-443e-b6d4-0c0ca3656259)"/></a>
 
 <!--
 
