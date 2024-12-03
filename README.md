@@ -17,6 +17,7 @@
 <a href="https://github.com/csurgay/xylophone"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/c85def3f-0edd-454f-bc82-d4d0fbac9f99)"/></a>
 <a href="https://github.com/csurgay/robothand"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/e8b5af20-f070-4188-bb7a-8eafbd45503e)"/></a>
 <a href="https://github.com/csurgay/pong"><img style="height: 120px" src="https://github.com/user-attachments/assets/bd3b4666-4fc3-4c87-b48b-eaa0b8de2fb1"/></a>
+<a href="https://github.com/csurgay/pendulum"><img style="height: 120px" src="https://github.com/user-attachments/assets/f3a67eb6-3ddf-49e1-b10f-7f7f5e78b642"/></a>
 
 <!--
 
