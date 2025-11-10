@@ -17,8 +17,8 @@
 <a href="https://github.com/csurgay/robothand"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/e8b5af20-f070-4188-bb7a-8eafbd45503e)"/></a>
 <a href="https://github.com/csurgay/pong"><img style="height: 120px" src="https://github.com/user-attachments/assets/bd3b4666-4fc3-4c87-b48b-eaa0b8de2fb1"/></a>
 <a href="https://github.com/csurgay/pendulum"><img style="height: 120px" src="https://github.com/user-attachments/assets/c405e629-8561-498c-9877-a9032d11f878"/></a>
-<a href="https://github.com/csurgay/matchbox"><img style="height: 120px" src="https://github.com/user-attachments/assets/8786d260-bc3d-4c49-b9a5-cf452c35c239" />
-</a>
+<a href="https://github.com/csurgay/matchbox"><img style="height: 120px" src="https://github.com/user-attachments/assets/8786d260-bc3d-4c49-b9a5-cf452c35c239" /></a>
+<a href="https://github.com/csurgay/mandel"><img style="height: 120px" src="https://github.com/user-attachments/assets/2fd5ad23-15c0-4b63-b580-9a781ea1df28" /></a>
 
 
 <!--
