@@ -19,6 +19,7 @@
 <a href="https://github.com/csurgay/pendulum"><img style="height: 120px" src="https://github.com/user-attachments/assets/c405e629-8561-498c-9877-a9032d11f878"/></a>
 <a href="https://github.com/csurgay/matchbox"><img style="height: 120px" src="https://github.com/user-attachments/assets/8786d260-bc3d-4c49-b9a5-cf452c35c239" /></a>
 <a href="https://github.com/csurgay/mandel"><img style="height: 120px" src="https://github.com/user-attachments/assets/2fd5ad23-15c0-4b63-b580-9a781ea1df28" /></a>
+<a href="https://github.com/csurgay/spidron"><img style="height: 120px" alt="image" src="https://github.com/user-attachments/assets/94e9199f-b254-4c09-b182-6390cd0d4307" /></a>
 
 
 <!--
