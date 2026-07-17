@@ -21,6 +21,7 @@
 <a href="https://github.com/csurgay/mandel"><img style="height: 120px" src="https://github.com/user-attachments/assets/2fd5ad23-15c0-4b63-b580-9a781ea1df28" /></a>
 <a href="https://github.com/csurgay/spidron"><img style="height: 120px" src="https://github.com/user-attachments/assets/94e9199f-b254-4c09-b182-6390cd0d4307" /></a>
 <a href="https://github.com/csurgay/maze"><img style="height: 120px" src="https://github.com/user-attachments/assets/0ddc4094-7e29-4448-b348-9eb561cdaf31" /></a>
+<a href="https://github.com/csurgay/corewars"><img style="height: 120px" src="https://github.com/user-attachments/assets/7c3b3523-9f2e-4d9c-b902-62364fbdb976" /></a>
 
 
 <!--
