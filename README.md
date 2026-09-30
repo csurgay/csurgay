@@ -1,8 +1,7 @@
 <img style="width: 100%" src="https://github.com/csurgay/csurgay/blob/main/banner5.png" alt="banner"/>
 
 <a href="https://github.com/csurgay/ansible-training"><img style="height: 120px" src="https://github.com/user-attachments/assets/bbb9529f-8f07-4e68-99ab-ef803c19e2c2"/></a>
-<a href="https://github.com/csurgay/catan"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/cca0ae06-5999-40a6-9e04-34f3d1f06482"/></a>
-<!--a href="https://github.com/csurgay/scopetester"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/3a4fca96-dfa6-4da4-baa8-1ca2d89e0103"/></a--><a href="https://csurgay.com/syggen"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/3a4fca96-dfa6-4da4-baa8-1ca2d89e0103"/></a>
+<a href="https://github.com/csurgay/catan"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/cca0ae06-5999-40a6-9e04-34f3d1f06482"/></a><!--a href="https://github.com/csurgay/scopetester"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/3a4fca96-dfa6-4da4-baa8-1ca2d89e0103"/></a--><a href="https://csurgay.com/syggen"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/3a4fca96-dfa6-4da4-baa8-1ca2d89e0103"/></a>
 <a href="https://github.com/csurgay/petri"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/94663ea5-36eb-443d-b896-daf21ce9a223"/></a>
 <a href="https://github.com/csurgay/crossfire"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/d4eb4c3f-9fd5-41e7-b332-94cd597065da"/></a>
 <a href="https://github.com/csurgay/abalone"><img style="height: 120px" src="https://github.com/csurgay/csurgay/assets/6297098/86067c58-a244-4e6e-8cc5-f2b18f9b2a58"/></a>
